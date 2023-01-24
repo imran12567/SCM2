@@ -1,10 +1,9 @@
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Practice1 {
+public class Practice2 {
 	@Test
 	public void practiceToPrint() {
 		Reporter.log("Md", true);
-		Reporter.log("Imran", true);
 	}
 }
